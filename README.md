@@ -1,3 +1,3 @@
-## To-Do
+## To-Do List
 
-Simple to-do list creator
+[Live example](https://ryanaltobello.github.io/todo-list/)
