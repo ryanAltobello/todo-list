@@ -74,7 +74,7 @@ body, html {
     column-gap: 10px;
     height: 400px;
     width: 500px;
-    margin: 10px auto;
+    margin: 20px auto 10px auto;
 }
 .to-do {
     display: flex;
